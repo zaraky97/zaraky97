@@ -21,8 +21,8 @@
 - Node.js
 
 ## フレームワーク
-- Angular.js(2020/01~)
-- React.js(2021/09~)
+- Angular(2020/01~)
+- React(2021/09~)
 
 <!--
 **zaraky97/zaraky97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
