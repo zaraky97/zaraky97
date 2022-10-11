@@ -7,7 +7,6 @@
 |  Zenn |https://zenn.dev/zaraky97  |
 |  Twitter |https://twitter.com/sasa_push829  |
 |  Facebook |https://www.facebook.com/zaraky97 |
-|  Mail |yuya.sasagawa@push-forward.jp |
 |  資格 | 基本情報技術者(2011) |
 
 ## 自己紹介
